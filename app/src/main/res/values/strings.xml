@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ComposeRetrofitSample</string>
+    <string name="app_name">Hyparz</string>
+    <string name="no_item">No item found</string>
+
 </resources>
